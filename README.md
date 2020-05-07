@@ -1,9 +1,8 @@
 # System Board software (Work In Progress)
 
-## Roadmap
-- Add Tension board configuration to led system
+This project contain software (written in python) and informations to build a control led system for Moonboard system board based on BLE communication and Raspberry Pi controller. Author & Credits : https://github.com/e-sr/moonboard.
 
-This project contain software (written in python) and informations to build a led system for the MOONBOARD using a raspberrypi with integrated Bluetooth.
+The fork was made to add compatibility with Tension system board (Work In Progress).
 
 ## Original led box
 
